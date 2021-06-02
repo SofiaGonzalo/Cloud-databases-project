@@ -153,6 +153,7 @@ Thumbs.db
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 
-.env*.vscode
+.env
+*.vscode
 *__pycache__
 *venv
